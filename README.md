@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/Chandra380/images/blob/main/gifwebD.gif" width="700">
 <h1 align="center">Hi 👋, I'm Chandra.</h1>
 <h3 align="center">An undergrad student.</h3>
 
