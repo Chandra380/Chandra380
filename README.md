@@ -31,6 +31,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandra380&show_icons=true&locale=en&layout=compact" alt="chandra380" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandra380&show_icons=true&locale=en" alt="chandra380" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandra380&show_icons=true&locale=en" alt="chandra380" width="400"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra380&" alt="chandra380" /></p>
