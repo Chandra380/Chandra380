@@ -22,7 +22,7 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left>
-<a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://github.com/Chandra380/images/blob/main/cf.png" alt="humann_007" height="40" width="50" /></a>
+<a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://github.com/Chandra380/images/blob/main/cf.png" alt="kenity_hyoma" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/chandra_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandra_p" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/cpdps1431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cpdps1431" height="30" width="40" /></a>
 </p>
