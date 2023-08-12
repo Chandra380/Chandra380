@@ -15,7 +15,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandra380&langs_count=10&layout=compact" alt="chandra380" width="350"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandra380&langs_count=10&layout=compact" alt="chandra380" width="330"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandra380&count_private=false&show_icons=true" alt="chandra380" /></p>
 
