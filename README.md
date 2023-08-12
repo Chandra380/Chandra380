@@ -1,4 +1,4 @@
-<img align="center" src="https://res.cloudinary.com/dymvyfmkh/image/upload/v1691850973/icegif-1424_gk5hpl.gif" width="800">
+<img align="center" src="https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gifv" width="800">
 <h1 align="center">Hi 👋, I'm Chandra.</h1>
 
 
